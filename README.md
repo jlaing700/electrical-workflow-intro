@@ -18,7 +18,7 @@ To make the initial link of a github repository onto your git, you must clone it
 
 2. Use the clone command to clone the github repository onto your git. It will automatically create a folder with the name of the repository with all of its contents
 ```
-git clone 
+git clone https://github.com/Mechatronics-SDSU/GitHub_Work_Flow_Intro_Project.git
 ```
 
 #### Branching
@@ -57,6 +57,10 @@ git checkout [Name_of_Branch]
 5. Add the specific files that were worked on
 ```
 git add file.txt
+
+or
+
+git add -A
 ```
 
 6. Commit the changes to the added files to the local git with a message of what was changed. It is important to add a message as the commit will open up VIM expecting you to write a message in. **To avoid this issue, be sure to write the message in the initial commit command**
