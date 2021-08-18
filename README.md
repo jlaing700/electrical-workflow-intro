@@ -18,7 +18,7 @@ To make the initial link of a github repository onto your git, you must clone it
 
 2. Use the clone command to clone the github repository onto your git. It will automatically create a folder with the name of the repository with all of its contents
 ```
-git clone https://github.com/Mechatronics-SDSU/GitHub_Work_Flow_Intro_Project.git
+git clone https://github.com/Mechatronics-SDSU/electrical-workflow-intro.git
 ```
 
 #### Branching
