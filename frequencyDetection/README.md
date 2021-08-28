@@ -1,0 +1,2 @@
+# Arduino Frequency Detection
+This is my attempt at frequency detection on an Arduino without any additional hardware. All that you need to do is connect the ground of an aux cable to SGN GND of the Arduino and the hot of an aux cable to AO of the Arduino. It uses YIN frequency analysis with local minima mapping to detect what it thinks the current frequency of the string that is being played is. Enjoy :)
