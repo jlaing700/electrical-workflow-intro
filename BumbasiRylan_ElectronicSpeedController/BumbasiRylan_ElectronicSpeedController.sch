@@ -236,7 +236,7 @@ Wire Wire Line
 	4950 5050 4900 5050
 Connection ~ 4900 5050
 $Comp
-L FeatherWing_KC5-cache:power_PWR_FLAG #FLG0101
+L BumbasiRylan_ElectronicSpeedController-rescue:power_PWR_FLAG-FeatherWing_KC5-cache #FLG0101
 U 1 1 6149B2CC
 P 3650 5650
 F 0 "#FLG0101" H 3650 5725 50  0001 C CNN
@@ -284,4 +284,70 @@ Wire Wire Line
 	5050 2700 7350 2700
 Wire Wire Line
 	6750 3400 6750 3300
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 6149BD6D
+P 9000 1900
+F 0 "H1" V 8954 2050 50  0000 L CNN
+F 1 "MountingHole_Pad" V 9045 2050 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm_Pad_Via" H 9000 1900 50  0001 C CNN
+F 3 "~" H 9000 1900 50  0001 C CNN
+	1    9000 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 6149C7A0
+P 9000 2200
+F 0 "H2" V 8954 2350 50  0000 L CNN
+F 1 "MountingHole_Pad" V 9045 2350 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm_Pad_Via" H 9000 2200 50  0001 C CNN
+F 3 "~" H 9000 2200 50  0001 C CNN
+	1    9000 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 6149D0A2
+P 9000 2500
+F 0 "H3" V 8954 2650 50  0000 L CNN
+F 1 "MountingHole_Pad" V 9045 2650 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm_Pad_Via" H 9000 2500 50  0001 C CNN
+F 3 "~" H 9000 2500 50  0001 C CNN
+	1    9000 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 6149D8FB
+P 9000 2800
+F 0 "H4" V 8954 2950 50  0000 L CNN
+F 1 "MountingHole_Pad" V 9045 2950 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm_Pad_Via" H 9000 2800 50  0001 C CNN
+F 3 "~" H 9000 2800 50  0001 C CNN
+	1    9000 2800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8900 1900 8900 2200
+Connection ~ 8900 2200
+Wire Wire Line
+	8900 2200 8900 2500
+Connection ~ 8900 2500
+Wire Wire Line
+	8900 2500 8900 2800
+Connection ~ 8900 2800
+Wire Wire Line
+	8900 2800 8900 3000
+$Comp
+L power:GND #PWR01
+U 1 1 6149ED97
+P 8900 3000
+F 0 "#PWR01" H 8900 2750 50  0001 C CNN
+F 1 "GND" H 8905 2827 50  0000 C CNN
+F 2 "" H 8900 3000 50  0001 C CNN
+F 3 "" H 8900 3000 50  0001 C CNN
+	1    8900 3000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
