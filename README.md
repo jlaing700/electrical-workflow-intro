@@ -28,11 +28,8 @@ Here is an example of how to create a new branch off of main. Please use the fol
 
 #### Creating a New Branch Example
 
-<<<<<<< HEAD
-Create a new branch off of **RaspberryPi** called "Tristan_dev"
-=======
+
 Create a new branch off of **electrical-workflow-intro** called "Tristan_dev"
->>>>>>> 9ef77c30c614ec4ff715ccb3bdbd723310b186e0
 
 ```
 git checkout -b Tristan_dev main
