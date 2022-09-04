@@ -118,7 +118,7 @@ Within this new branch that you will create, you will be able to add in any file
 (More information about GitHub, Branching, and Cloning can be found in the sections above in method 1)
 
 2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
-Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch. After the clone has finished, you will now be able to create your own personal branch. 
+Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch and add it to your local computer. After the clone has finished, you will now be able to create your own personal branch. 
 On the GitHub Desktop app, navigate to "Current branch" and press "New branch". Create a branch named after your name (e.g: Fadi_dev). 
 
 Congratualtions, you now have your own personal branch of this repository. 
