@@ -86,4 +86,4 @@ git push origin [Name_of_Branch]
 
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
 
-For the sake of organization, create and name the folder in your desktop "Github". Create another folder within Github folder "Mechatronics 2022". 
+For the sake of organization, create and name the folder in your desktop "Github". Create another folder within Github folder "Mechatronics 2022". Add a .txt file named "intro". Within that text file, tell us about you and what your goals are for Fall 2022 semester.
