@@ -1,9 +1,9 @@
-Note: There are two ways that you can publish your work through Github. 
-1. Using CD (Command Prompts) (1)
-2. Using GitHub Desktop app and Github website (2). 
-Pick whichever you're comfortable with. If you're not a coding person, I recommend using GitHub Desktop. 
+Note: There are two methods that you can publish your work through Github. 
+1. Using CD (Command Prompts)
+2. Using GitHub Desktop app and Github website
+Pick whichever you're comfortable with. If you're not a coding person, I recommend using GitHub Desktop method. 
 
-Make sure you have create a GitHub account before you start. 
+Make sure you have created a GitHub account before you start. 
 
 # 1. GitHub-Work-Flow-Intro-Project
 Add a .txt file telling club members about you and what your goals are for Fall 2022 semester
@@ -86,15 +86,26 @@ git push origin [Name_of_Branch]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
+Download and install, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
-1. For the sake of organization, create and name the folder in your desktop "Github". Create another folder within Github folder "Mechatronics 2022". Add a .txt file named "Intro". Within that text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
+Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
-Now that your text file is ready to be shared on GitHub, we'll first have to add yourself to this repository and then create a branch. 
+Now that your text file is ready to be shared on GitHub, we'll first have to add yourself to this repository to create a branch. 
 
-A branch is a version of any selected repository. In this case, we'll create a branch named after your name (fadi_dev) of this repository that will contain these exact instructions. 
+A branch is a cloned version of a repository. In this case, we'll create a branch named after your name (e.g: Fadi_dev) of this repository that will contain these exact instructions (since its cloned).
 
-Within this new branch that you will create, you will be able to add in any files that pertains to the repository instructions.
+Within this new branch that you will create, you will be able to add in any files that pertains to the repository instructions. 
 
 2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
 
-Navigate to Code --> Open in GitHub Desktop. 
+Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch. After the clone has finished, you will now be able to create your own personal branch. 
+
+On the GitHub Desktop app, navigate to "Current branch" and press "New branch". Create a branch named after your name (e.g: Fadi_dev). 
+
+Congratualtions, you now have your own personal branch of this repository. 
+
+3. After you have made your branch, navigate to it and press, you will notice that the README.md instructions are cloned to your branch. 
+
+Next step is to add your .txt file that you have already made on your desktop. All thats left to do is to upload your .txt file to github **while** you're in your created branch (this is important). 
+
+Once you've added it, 
