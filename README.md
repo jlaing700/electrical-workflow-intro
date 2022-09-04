@@ -101,6 +101,7 @@ Download and install GitHub Desktop App on your computer, make sure you're using
 
 - Pushing is uploading your files/work you've done to GitHub where anyone who has access to the Repository can see your files that you pushed. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In these steps below, l'll show you how to do all that using GitHub Desktop app and GitHub website. 
 
