@@ -1,5 +1,5 @@
 # GitHub-Work-Flow-Intro-Project
-Add a .txt file telling club members about you and what your goals are for Fall 2021 semester
+Add a .txt file telling club members about you and what your goals are for Fall 2022 semester
 
 ## How to Contribute to the Repository
 Here is a brief explanation on how to contribute to git and github
