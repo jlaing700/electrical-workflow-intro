@@ -1,7 +1,7 @@
 Note: There are two methods in which you can publish your work through Github. 
-1. Using CD (Command Prompts)
+1. Using Git Bash CD (Command Prompts)
 2. Using GitHub Desktop app and GitHub website
-Pick whichever you're comfortable with. If you're not a coding person, I recommend using GitHub Desktop method. 
+Pick whichever you're comfortable with. If you're not a coding person, I recommend using the simpe GitHub Desktop method. 
 
 Make sure you have created a GitHub account before you start. 
 
@@ -99,7 +99,7 @@ To contribute to a Repository, you must clone it on your local computer.
 
 Branching is creating a version of that clone in order to push any work you've done petaining the intruction of that Repository. 
 
-Pushing is uploading your files/work you've done to GitHub where anyone who has access to the Repository can see your files you pushed. 
+Pushing is uploading your files/work you've done to GitHub where anyone who has access to the Repository can see your files that you pushed. 
 
 In these steps below, l'll show you how to do all that using GitHub Desktop app and GitHub website. 
 
