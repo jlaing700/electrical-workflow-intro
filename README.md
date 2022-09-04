@@ -88,7 +88,7 @@ git push origin [Name_of_Branch]
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
 Download and install, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
-Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
+1. Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
 Now that your text file is ready to be shared on GitHub, we'll first have to add yourself to this repository to create a branch. 
 
@@ -97,9 +97,7 @@ A branch is a cloned version of a repository. In this case, we'll create a branc
 Within this new branch that you will create, you will be able to add in any files that pertains to the repository instructions. 
 
 2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
-
 Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch. After the clone has finished, you will now be able to create your own personal branch. 
-
 On the GitHub Desktop app, navigate to "Current branch" and press "New branch". Create a branch named after your name (e.g: Fadi_dev). 
 
 Congratualtions, you now have your own personal branch of this repository. 
@@ -108,4 +106,5 @@ Congratualtions, you now have your own personal branch of this repository.
 
 Next step is to add your .txt file that you have already made on your desktop. All thats left to do is to upload your .txt file to github **while** you're in your created branch (this is important). 
 
-Once you've added it, 
+Once you've uploaded your text file, you are now officially a GitHub expert.  
+
