@@ -101,9 +101,10 @@ Download and install GitHub Desktop App on your computer, make sure you're using
 
 - Pushing is uploading your files/work you've done to GitHub where anyone who has access to the Repository can see your files that you pushed. 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In these steps below, l'll show you how to do all that using GitHub Desktop app and GitHub website. 
+In these steps below, l'll walk you through how to contribute to a Repository using GitHub Desktop app and GitHub website. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
