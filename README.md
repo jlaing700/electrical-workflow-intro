@@ -86,9 +86,8 @@ git push origin [Name_of_Branch]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
-Download and install, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
+Download and install GitHub Desktop App on your computer, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
-(More information about GitHub, Branching, and Cloning can be found in the sections above)
 
 1. Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
@@ -97,6 +96,8 @@ Now that your text file is ready to be shared on GitHub, we'll first have to add
 A branch is a cloned version of a repository. In this case, we'll create a branch named after your name (e.g: Fadi_dev) of this repository that will contain these exact instructions (since its cloned).
 
 Within this new branch that you will create, you will be able to add in any files that pertains to the repository instructions. 
+
+(More information about GitHub, Branching, and Cloning can be found in the sections above)
 
 2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
 Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch. After the clone has finished, you will now be able to create your own personal branch. 
