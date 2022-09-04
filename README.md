@@ -105,5 +105,6 @@ Congratualtions, you now have your own personal branch of this repository.
 3. After you have made your branch, navigate to it and press, you will notice that the README.md instructions are cloned to your branch. 
 Next step is to add your .txt file that you have already made on your desktop. All thats left to do is to upload your .txt file to github **while** you're in your created branch (this is important). 
 
-Once you've uploaded your text file, you are now officially a GitHub expert.  
+Once you've uploaded your text file, you should be able to see what you've wrote down on GitHub. Anyone who has access to this repository is also able to see it. 
 
+**If you have any questions or ran into some problems, please reach out to Fadi on Discord**
