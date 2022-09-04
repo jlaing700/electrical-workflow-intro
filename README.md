@@ -103,7 +103,6 @@ On the GitHub Desktop app, navigate to "Current branch" and press "New branch". 
 Congratualtions, you now have your own personal branch of this repository. 
 
 3. After you have made your branch, navigate to it and press, you will notice that the README.md instructions are cloned to your branch. 
-
 Next step is to add your .txt file that you have already made on your desktop. All thats left to do is to upload your .txt file to github **while** you're in your created branch (this is important). 
 
 Once you've uploaded your text file, you are now officially a GitHub expert.  
