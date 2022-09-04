@@ -1,4 +1,4 @@
-Note: There are two methods that you can publish your work through Github. 
+Note: There are two methods in which you can publish your work through Github. 
 1. Using CD (Command Prompts)
 2. Using GitHub Desktop app and Github website
 Pick whichever you're comfortable with. If you're not a coding person, I recommend using GitHub Desktop method. 
