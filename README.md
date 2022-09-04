@@ -88,16 +88,30 @@ git push origin [Name_of_Branch]
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
 Download and install GitHub Desktop App on your computer, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
+## There are a total of 3 steps on how to Contribute to the Repository:
+1. Cloning
+2. Branching
+3. Pushing 
+
+Cloning and Branching are usually only done once. 
+
+To contribute to a Repository, you must clone it on your local computer. 
+
+Branching is creating a version of that clone in order to push any work you've done petaining the intruction of that Repository. 
+
+Pushing is uploading your files/work you've done to GitHub where anyone who has access to the Repository can see your files you pushed. 
+
+In these steps below, l'll show you how to do all that using GitHub Desktop app and GitHub website. 
 
 1. Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
 Now that your text file is ready to be shared on GitHub, we'll first have to add yourself to this repository to create a branch. 
 
-A branch is a cloned version of a repository. In this case, we'll create a branch named after your name (e.g: Fadi_dev) of this repository that will contain these exact instructions (since its cloned).
+A branch is a cloned version of a repository. In this case, we'll create a branch named after your name (e.g: Fadi_dev) of this repository.
 
 Within this new branch that you will create, you will be able to add in any files that pertains to the repository instructions. 
 
-(More information about GitHub, Branching, and Cloning can be found in the sections above)
+(More information about GitHub, Branching, and Cloning can be found in the sections above in method 1)
 
 2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
 Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch. After the clone has finished, you will now be able to create your own personal branch. 
