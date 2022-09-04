@@ -78,4 +78,4 @@ git push origin [Name_of_Branch]
 8. A pop window will appear prompting for you github login information. Enter you username into the first window and click submit, then enter you password into the second window and click submit.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### GitHub Desktop Application
+# GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
