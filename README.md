@@ -3,6 +3,7 @@ Note: There are two ways that you can publish your work through Github.
 2. Using GitHub Desktop app and Github website (2). 
 Pick whichever you're comfortable with. If you're not a coding person, I recommend using GitHub Desktop. 
 
+Make sure you have create a GitHub account before you start. 
 
 # 1. GitHub-Work-Flow-Intro-Project
 Add a .txt file telling club members about you and what your goals are for Fall 2022 semester
@@ -88,5 +89,12 @@ git push origin [Name_of_Branch]
 
 1. For the sake of organization, create and name the folder in your desktop "Github". Create another folder within Github folder "Mechatronics 2022". Add a .txt file named "Intro". Within that text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
-2. Now that your text file is ready to be shared on GitHub, we first have to create a branch. 
-\n A branch is 
+Now that your text file is ready to be shared on GitHub, we'll first have to add yourself to this repository and then create a branch. 
+
+A branch is a version of any selected repository. In this case, we'll create a branch named after your name (fadi_dev) of this repository that will contain these exact instructions. 
+
+Within this new branch that you will create, you will be able to add in any files that pertains to the repository instructions.
+
+2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
+
+Navigate to Code --> Open in GitHub Desktop. 
