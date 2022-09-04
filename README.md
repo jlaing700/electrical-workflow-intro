@@ -1,3 +1,9 @@
+Note: There are two ways to publish your work through github. 
+1. Using CD Command prompts which is the instructions right down below
+2. Using GitHub Desktop app and Github website which I will cover towards the end. Pick whichever you're comfortable with. 
+If you're not a coding person, I recommend the second way. 
+
+
 # GitHub-Work-Flow-Intro-Project
 Add a .txt file telling club members about you and what your goals are for Fall 2022 semester
 
