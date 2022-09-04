@@ -92,12 +92,12 @@ Download and install GitHub Desktop App on your computer, make sure you're using
 1. Cloning
 2. Branching
 3. Pushing 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Cloning and Branching are usually only done once. 
 
 - To contribute to a Repository, you must clone it on your local computer. 
 
-- Branching is creating a version of that clone in order to push any work you've done petaining the intruction of that Repository. 
+- Branching is a cloned version of a repository in order to push any work you've done petaining the intruction of that Repository. 
 
 - Pushing is uploading your files/work you've done to GitHub where anyone who has access to the Repository can see your files that you pushed. 
 
