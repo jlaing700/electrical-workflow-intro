@@ -88,6 +88,8 @@ git push origin [Name_of_Branch]
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
 Download and install, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
+More detailed information about GitHub, Branching, and Cloning are provided above.  
+
 1. Create a text file on your desktop. Within the text file, tell us about you and what your goals are for Fall 2022 semester. For more brownie points, add in any particular interests that you would like to work with/learn more about in our electrical team. 
 
 Now that your text file is ready to be shared on GitHub, we'll first have to add yourself to this repository to create a branch. 
