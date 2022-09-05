@@ -86,8 +86,10 @@ git push origin [Name_of_Branch]
 8. A pop window will appear prompting for you github login information. Enter you username into the first window and click submit, then enter you password into the second window and click submit.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App: https://desktop.github.com/
-Download and install GitHub Desktop App on your computer, make sure you're using the same account for both GitHub website and GitHub Desktop App. 
+# 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop App
+Download and install GitHub Desktop App on your computer: https://desktop.github.com/ 
+
+Make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
 ## There are a total of 3 steps on how to Contribute to the Repository:
 1. Cloning
