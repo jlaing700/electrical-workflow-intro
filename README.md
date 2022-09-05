@@ -6,7 +6,7 @@ Pick whichever you're comfortable with. If you're not a coding person, I recomme
 
 Make sure you have created a GitHub account before you start. 
 
-# 1. GitHub-Work-Flow-Intro-Project
+# 1. GitHub-Work-Flow-Intro-Project using Git Bash
 Add a .txt file telling club members about you and what your goals are for Fall 2022 semester
 
 ## How to Contribute to the Repository
@@ -119,7 +119,8 @@ Within this new branch that you will create, you will be able to add in any file
 
 2. To add yourself to the repository, navigate and press the main branch on the GitHub website. 
 Navigate to "Code" --> "Open with GitHub Desktop". From there, GitHub desktop will clone the repository of main branch and add it to your local computer. After the clone has finished, you will now be able to create your own personal branch. 
-On the GitHub Desktop app, navigate to "Current branch" and press "New branch". Create a branch named after your name (e.g: Fadi_dev). 
+3. On the GitHub Desktop app, navigate to "Current branch" and press "New branch". Create a branch named after your name (e.g: Fadi_dev). 
+You can also do this on the main GitHub website to create a branch. 
 
 Congratualtions, you now have your own personal branch of this repository. 
 
