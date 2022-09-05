@@ -130,6 +130,6 @@ Congratualtions, you now have your own personal branch of this repository.
 Next step is to add your .txt file that you have already made on your desktop. All thats left to do is to upload your .txt file to github **while** you're in your created branch (this is important). 
 
 Once you've uploaded your text file, you should be able to see what you've wrote down on GitHub. Anyone who has access to this repository is also able to see it. 
-Congrats, you've completed the GitHub task! 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **If you have any questions, reach out to Fadi on Discord**
