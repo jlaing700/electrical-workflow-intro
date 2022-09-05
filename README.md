@@ -1,10 +1,10 @@
 Note: There are two methods in which you can publish your work through Github. 
 1. Using Git Bash CD (Command Prompts)
-2. Using GitHub Desktop app and GitHub website.
+2. Using GitHub Desktop app and/or GitHub website.
 
-Pick whichever you're comfortable with. If you're not a coding person, I recommend using the simple GitHub Desktop method. 
+Pick whichever you're comfortable with. If you're not a coding person, I recommend using method 2. 
 
-Make sure you have created a GitHub account before you start. 
+Make sure you have created a GitHub account before you start and have it shared with one of the electrical to be added to Mechatronics GitHub organization. 
 
 # 1. GitHub-Work-Flow-Intro-Project using Git Bash
 Add a .txt file telling club members about you and what your goals are for Fall 2022 semester
