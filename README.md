@@ -91,7 +91,7 @@ Download and install GitHub Desktop App on your computer: https://desktop.github
 
 Make sure you're using the same account for both GitHub website and GitHub Desktop App. 
 
-## There are a total of 3 steps on how to Contribute to the Repository:
+## There are a total of 3 steps on how to contribute to the repository:
 1. Cloning
 2. Branching
 3. Pushing 
