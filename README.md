@@ -87,9 +87,9 @@ git push origin [Name_of_Branch]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2. GitHub-Work-Flow-Intro-Project Using GitHub Desktop
-**Download and install GitHub Desktop App on your computer: https://desktop.github.com/ **
+**Download and install GitHub Desktop App on your computer: https://desktop.github.com/**
 
-**Make sure you're using the same account for both GitHub website and GitHub Desktop App. **
+**Make sure you're using the same account for both GitHub website and GitHub Desktop App.**
 
 ## There are a total of 3 steps on how to contribute to the repository:
 1. Cloning
