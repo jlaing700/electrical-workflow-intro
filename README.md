@@ -1,3 +1,47 @@
+#### Program Information  
+This is a spin of the standard press button to blink written in pure C.  
+Utilizing PCINT interrupts we can put the MCU to a light sleep mode (not implemented) while waiting for user input.  
+Upon button press we exhibit one of 3 states:  
+- Off (0% duty cycle)
+- Dim (50% duty cycle)
+- On  (100% duty cycle)  
+  
+Dimming and button debounce are done by counting Timer 0 overflows, where Timer 0 runs at a clk / 1024 prescale.  
+The `TIMER0_OVF_vect` (overflow vector) increments a global counter (globee) until a set point (globee > OVF_DELAY)  
+at which point a flag is set (bottle) and debounce conditional is partially satisfied, allowing another button press (falling only).  
+  
+Dimming is much the same whereby a single count of the global counter (globee) is required to increment/decrement the PWM duty cycle.  
+Upon duty cycle change the global counter is cleared.  
+  
+Pin change interrupts are disabled while dimming so no user input can be entered until the fade loop terminates.  
+This is done by clearing PCMSK2.  
+  
+PWM output is handled using TIMER2 and OCR2B (PD3) at a 1x prescalar. A very smooth LED fade is the result.  
+  
+This has been tested to work on Arduino Nano clone boards using the CH340G and old bootloader.  
+
+### How to use  
+# Pinout
+- Input: PD2. A simple NO SPST tactile switch between PD2 and GND  
+- Output:   PD3. An LED and 220R resistor in series from PD3 to GND.  
+
+# This program can easily be uploaded in one of 2 ways:
+- Compile, link, upload with the standard AVR toolchain (avr-gcc, avrdude)  
+- Break the code into recurring and single use sections, then put the broken up code into Arduino IDE and press upload
+
+## Compile Yourself (Linux)
+- Compile:  `avr-gcc -O2 -mmcu=atmega328p ./main.c -o ./out.out`  
+- Link:     `avr-objcopy -0 ihex out.out	.out.hex`  
+- Upload:   `avrdude -C/etc/avrdude.conf -v -patmega328p -carduino -P/dev/ttyUSB0 -b57600 -D -Uflash:w:./.out.hex:i`  
+  
+# For more info please ping me in the discord, thank you.
+
+
+--
+  
+  
+  
+  
 Note: There are two methods in which you can publish your work through Github. 
 1. Using Git Bash CD (Command Prompts)
 2. Using GitHub Desktop app and GitHub website
