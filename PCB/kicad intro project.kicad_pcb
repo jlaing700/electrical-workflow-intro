@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 4)
     (tracks 17)
     (zones 0)
     (modules 5)
@@ -66,7 +66,7 @@
       (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
-      (creategerberjobfile false)
+      (creategerberjobfile true)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -85,7 +85,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory ""))
   )
@@ -459,6 +459,11 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 135.89 59.69) (end 135.89 110.49) (layer Edge.Cuts) (width 0.05) (tstamp 6340C54E))
+  (gr_line (start 93.98 59.69) (end 135.89 59.69) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 93.98 110.49) (end 135.89 110.49) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 93.98 59.69) (end 93.98 110.49) (layer Edge.Cuts) (width 0.05))
 
   (segment (start 124.58 74.93) (end 125.73 74.93) (width 0.25) (layer F.Cu) (net 7))
   (segment (start 123.19 76.32) (end 124.58 74.93) (width 0.25) (layer F.Cu) (net 7))
