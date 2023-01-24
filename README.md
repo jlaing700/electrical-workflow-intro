@@ -32,7 +32,7 @@ git clone https://github.com/Mechatronics-SDSU/electrical-workflow-intro.git
 #### Branching
 Every repository, in our case **GitHub_Work_Flow_Intro_Project**, has a **main** branch where the most up-to-date ready to ship version is held. This is to ensure there is always a deployable version at any point in the development and maintenance cycle. When new features or additions are being developed, typically a new branch is created with the name of that feature. This allows for a new location that new code, PCB designs, and updates can be saved without affecting the **main** branch. In our case, there currently exists a branch for each seperate piece to the project. Once one of the features/branches has been thoroughly tested and is stable, that branch is merged into the **main** branch. What this will do is copy all files from the initial development branch and merge them into the **main** branch so it becomes the most up-to-date version with these new features.
 
-Here is an example of how to create a new branch off of main. Please use the following naming format for the branch **[Your_Name]_[Description of Branch]**
+Here is an example of how to create a new branch off of main. Please use the following naming format for the branch **[Your_Full_Name]_[Description of Branch]**, for the intro project please use **dev** as your branch description.
 
 #### Creating a New Branch Example
 
